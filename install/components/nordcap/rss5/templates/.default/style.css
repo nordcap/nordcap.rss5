@@ -1,0 +1,11 @@
+.news-element{
+    border: 1px solid gray;
+    margin-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-shadow: 0px 2px 10px 0px gray;
+}
+.news-element a{
+    color: black;
+    text-decoration: none;
+}
